@@ -10,9 +10,9 @@ function Projects() {
     },
     {
       titulo: 'Calculadora de Propinas',
-      descripcion: 'App para calcular propinas y dividir cuentas',
+      descripcion: 'App para calcular propinas y dividir cuentas entre personas',
       tecnologias: ['HTML', 'CSS', 'JavaScript'],
-      link: null  // Si no tienes link, no muestra botón
+      link: 'https://richardgtz.github.io/propinas-calculator' 
     },
     {
       titulo: 'To-Do List',
