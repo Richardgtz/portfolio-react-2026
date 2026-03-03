@@ -15,10 +15,10 @@ function Projects() {
       link: 'https://richardgtz.github.io/propinas-calculator' 
     },
     {
-      titulo: 'To-Do List',
-      descripcion: 'Gestor de tareas con localStorage',
-      tecnologias: ['React', 'Hooks'],
-      link: null
+      titulo: 'Gestor de Tareas',
+    descripcion: 'CRUD completo con React, Hooks y localStorage',
+    tecnologias: ['React', 'Hooks', 'localStorage'],
+    link: 'https://richardgtz.github.io/gestor-tareas'
     }
   ];
 
